@@ -1,4 +1,4 @@
-# htb-writeups
+# HTB-Writeups
 
 Writeups from my HackTheBox journey - retired machines and CPTS module knowledge checks. Every writeup is posted only after the machine is retired or the module challenge is no longer active, in line with HTB's content policy.
 
